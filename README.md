@@ -1,2 +1,2 @@
 # hello-world
-Just the first repository
+That's another edition of README.md
